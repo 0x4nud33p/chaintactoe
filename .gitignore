@@ -41,6 +41,7 @@ node_modules/
 *.lock
 .env
 
+
 # OS-specific
 .DS_Store
 Thumbs.db
