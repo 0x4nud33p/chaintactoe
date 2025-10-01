@@ -1,6 +1,9 @@
 use anchor_lang::prelude::*;
 
 #[account]
+#[cfg(test)]
+mod game_tests;
+
 pub struct Game {
     pub player_x: Pubkey,
     pub player_o: Pubkey,
