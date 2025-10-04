@@ -30,8 +30,4 @@ pub mod contracts {
         context::finalize_game::handler(ctx)
     }
 
-    pub fn claim_timeout(ctx: Context<ClaimTimeout>) -> Result<()> {
-        context::claim_timeout::handler(ctx)
-    }
-
 }
