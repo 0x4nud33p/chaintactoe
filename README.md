@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/logo.gif" alt="Chaintactoe Logo" height="300" />
+  <img src="./docs/logo.gif" alt="Chaintactoe Logo" />
 </p>
 
 <h1 align="center">Chaintactoe</h1>
